@@ -1,0 +1,15 @@
+{
+  "name": "Fantasy World",
+  "description": "Fantasy World Card",
+  "image": "ipfs://QmV2HCp1sv3i5HgXqQLxnGBWKvKzKGahxe46f4qy6r8FyJ/Creature10.jpg",
+  "attributes": [
+    {
+      "trait_type": "Creature",
+      "value": "Fire Drake"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

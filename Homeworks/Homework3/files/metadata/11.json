@@ -1,0 +1,15 @@
+{
+  "name": "Fantasy World",
+  "description": "Fantasy World Pack",
+  "image": "ipfs://QmV2HCp1sv3i5HgXqQLxnGBWKvKzKGahxe46f4qy6r8FyJ/Pack1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Pack",
+      "value": "Common Pack"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
