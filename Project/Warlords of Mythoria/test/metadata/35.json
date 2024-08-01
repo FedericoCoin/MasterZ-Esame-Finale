@@ -1,0 +1,62 @@
+{
+  "name": "Fire Drake",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Creature35.jpg",
+  "attributes": [
+    {
+      "trait_type": "Creature",
+      "value": "Fire Drake"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 35
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Attack",
+      "display_type": "number",
+      "value": 13
+    },
+    {
+      "trait_type": "Defense",
+      "display_type": "number",
+      "value": 8
+    },
+    {
+      "trait_type": "HP",
+      "display_type": "number",
+      "value": 16
+    },
+    {
+      "trait_type": "Speed",
+      "display_type": "number",
+      "value": 12
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Attack Cost",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Evolution Stage",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Can Evolve",
+      "value": false
+    },
+    {
+      "trait_type": "Is evolved",
+      "value": false
+    }
+  ]
+}

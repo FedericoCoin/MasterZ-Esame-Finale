@@ -1,0 +1,36 @@
+{
+  "name": "Diamond Pack",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Pack4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Pack",
+      "value": "Diamond Pack"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 61
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Rare Cards Contained",
+      "display_type": "number",
+      "value": 2
+    },
+    {
+      "trait_type": "Epic Cards Contained",
+      "display_type": "number",
+      "value": 2
+    },
+    {
+      "trait_type": "Legendary Cards Contained",
+      "display_type": "number",
+      "value": 1
+    }
+  ]
+}
+

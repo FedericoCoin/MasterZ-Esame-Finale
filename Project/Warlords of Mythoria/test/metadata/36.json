@@ -1,0 +1,62 @@
+{
+  "name": "Sky Sovereign",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Creature36.jpg",
+  "attributes": [
+    {
+      "trait_type": "Creature",
+      "value": "Sky Sovereign"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 36
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Attack",
+      "display_type": "number",
+      "value": 11
+    },
+    {
+      "trait_type": "Defense",
+      "display_type": "number",
+      "value": 10
+    },
+    {
+      "trait_type": "HP",
+      "display_type": "number",
+      "value": 18
+    },
+    {
+      "trait_type": "Speed",
+      "display_type": "number",
+      "value": 14
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Attack Cost",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Evolution Stage",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Can Evolve",
+      "value": false
+    },
+    {
+      "trait_type": "Is evolved",
+      "value": false
+    }
+  ]
+}

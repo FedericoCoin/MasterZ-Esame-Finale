@@ -1,0 +1,48 @@
+{
+  "name": "Curse",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Item21.jpg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 57
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Opponent's Attack Decrease",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Opponent's Defence Decrease",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Damage",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Can Trade",
+      "value": false
+    },
+    {
+      "trait_type": "Is Attachable",
+      "value": false
+    }
+  ]
+}
