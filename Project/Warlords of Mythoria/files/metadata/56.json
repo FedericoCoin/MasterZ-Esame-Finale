@@ -1,0 +1,38 @@
+{
+  "name": "Earthquake",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Item20.jpg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Earthquake"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 56
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Damage",
+      "display_type": "number",
+      "value": 8
+    },
+    {
+      "trait_type": "Can Trade",
+      "value": false
+    },
+    {
+      "trait_type": "Is Attachable",
+      "value": false
+    }
+  ]
+}

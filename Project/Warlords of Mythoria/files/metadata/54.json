@@ -1,0 +1,48 @@
+{
+  "name": "Golden Armor",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qB/Item18.jpg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 54
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 4
+    },
+    {
+      "trait_type": "Attack boost",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Defence boost",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "HP boost",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Can Trade",
+      "value": false
+    },
+    {
+      "trait_type": "Is Attachable",
+      "value": true
+    }
+  ]
+}

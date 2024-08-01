@@ -1,0 +1,38 @@
+{
+  "name": "Lighting Bolt",
+  "description": "Warlords of Mythoria Card",
+  "image": "ipfs://QmbcYfLZV7wFdXEuJtk7qJt7GNwPsAJf2d42hxAcpxD4qBs/Item7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Lighting Bolt"
+    },
+    {
+      "trait_type": "ID",
+      "display_type": "number",
+      "value": 43
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Deployment Cost",
+      "display_type": "number",
+      "value": 2
+    },
+    {
+      "trait_type": "Damage",
+      "display_type": "number",
+      "value": 3
+    },
+    {
+      "trait_type": "Can Trade",
+      "value": false
+    },
+    {
+      "trait_type": "Is Attachable",
+      "value": false
+    }
+  ]
+}
